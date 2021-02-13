@@ -14,6 +14,10 @@ h1 {
   color: white;
 }
 
+#vid {
+  margin: 0 auto;
+}
+
 #heart {
     position: relative;
     width: 100px;
