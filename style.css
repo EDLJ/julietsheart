@@ -8,14 +8,14 @@ body{
   src: url("Font/VALEC___.TTF");
 }
 
+#container {
+ margin: 0 auto
+}
+
 h1 {
   font: 55px 'Valentine';
   text-align: center;
   color: white;
-}
-
-.vid {
-  margin: 0 auto;
 }
 
 #heart {
