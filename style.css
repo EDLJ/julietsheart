@@ -8,8 +8,10 @@ body{
   src: url("Font/VALEC___.TTF");
 }
 
-#container {
- margin: 0 auto
+iframe {
+  margin: 0 auto;
+  display: block;
+  border-style: none;
 }
 
 h1 {
